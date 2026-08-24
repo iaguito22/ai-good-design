@@ -22,10 +22,7 @@ hacer cosas complejas: es para que lo basico este bien hecho a la primera.
 
 ## 1. El test delator: lo que NO debes hacer NUNCA
 
-- **NO uses degradados morado-azul difuminados ("AI slop")**: Un fondo solido limpio
-  o una paleta monocroma con un color de acento real siempre tiene mas personalidad.
-- **NO metas bloques de "beneficios / garantias" genericos**: Cajas con iconos de camion
-  o escudo repetidos para rellenar espacio huelen a plantilla automatica.
+- **NO metas bloques de "beneficios / garantias" genericos, tarjetas de caracteristicas en cajas ("3-card feature grid") ni triadas de metricas flotantes ("3 vanity stats")**: Bloques de 3 números con etiqueta debajo ("24mm / ±0.5dB / 10 años", "99% satisfacción / 24/7 / 10k clientes") puestos en el hero o centro de la página son el cliché clásico de IA. Los datos reales van en la ficha de especificaciones, en la tabla técnica o dentro del texto explicativo.
 - **NO uses sombras gigantescas desenfocadas**: `box-shadow: 0 20px 60px rgba(0,0,0,0.3)`
   hace que todo flote sin gravedad. Sombras cortas y definidas (ej. `0 2px 8px rgba(0,0,0,0.06)`).
 - **NO ocultes informacion critica en hover**: Los precios, botones de compra y tallas
