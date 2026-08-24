@@ -13,11 +13,11 @@ Es un solo `SKILL.md`. No necesita scripts, binarios ni permisos.
 
 **Antigravity CLI**
 
-    git clone https://github.com/<tu-usuario>/good-design ~/.gemini/config/skills/good-design
+    git clone https://github.com/iaguito22/good-design ~/.gemini/config/skills/good-design
 
 **Claude Code**
 
-    git clone https://github.com/<tu-usuario>/good-design ~/.claude/skills/good-design
+    git clone https://github.com/iaguito22/good-design ~/.claude/skills/good-design
 
 Reinicia la sesión. Se activa sola cuando pides una landing, un portfolio, un panel
 o cualquier interfaz que una persona vaya a mirar, y también cuando dices que algo
