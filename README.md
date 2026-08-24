@@ -2,6 +2,12 @@
 
 Una skill que evita que una web parezca hecha por IA.
 
+![La misma landing sin la skill y con ella](docs/antes-despues.png)
+
+*La misma landing, el mismo encargo. A la izquierda lo que sale por defecto: degradado
+morado-azul, cristal por todas partes, emojis de icono, todo centrado, tres tarjetas
+idénticas y "10K+ usuarios felices". A la derecha, con la skill.*
+
 Le da al modelo la lista de delatores (degradado morado-azul, glassmorphism en todo,
 emojis como iconos, todo centrado, tres tarjetas iguales, `Inter` para absolutamente
 todo) y, más importante, qué hacer en su lugar: una escala tipográfica de verdad,
