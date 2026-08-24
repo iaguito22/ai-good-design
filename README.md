@@ -1,13 +1,15 @@
-# good-design
+# ai-good-design
 
 Una skill que evita que una web parezca hecha por IA.
 
-![La misma landing sin la skill y con ella](docs/antes-despues.png)
+![La misma tienda sin la skill y con ella](docs/antes-despues.png)
 
-*La misma landing, el mismo encargo. A la izquierda lo que sale por defecto: degradado
-morado-azul, cristal por todas partes, emojis de icono, todo centrado, tres tarjetas
-idénticas y "10K+ usuarios felices". A la derecha, con la skill: retícula suiza, fondo
-plano, un solo acento, y cifras que dicen algo en vez de adornar.*
+*El mismo encargo — "una web para una tienda de tecnología" — hecho dos veces. A la
+izquierda lo que sale por defecto: degradado morado, cristal, emojis de icono, todo
+centrado, tres tarjetas iguales, rectángulos de color donde debería ir el producto y
+"50K+ clientes felices". A la derecha, con la skill: retícula asimétrica, cada aparato
+dibujado en SVG, specs que un comprador usa de verdad (48 Hz – 22 kHz, 2 × 55 W, USB-C ·
+XLR · RCA) y el azul reservado para lo único que se pulsa.*
 
 Le da al modelo la lista de delatores (degradado morado-azul, glassmorphism en todo,
 emojis como iconos, todo centrado, tres tarjetas iguales, `Inter` para absolutamente
@@ -20,11 +22,11 @@ Es un solo `SKILL.md`. No necesita scripts, binarios ni permisos.
 
 **Antigravity CLI**
 
-    git clone https://github.com/iaguito22/good-design ~/.gemini/config/skills/good-design
+    git clone https://github.com/iaguito22/ai-good-design ~/.gemini/config/skills/good-design
 
 **Claude Code**
 
-    git clone https://github.com/iaguito22/good-design ~/.claude/skills/good-design
+    git clone https://github.com/iaguito22/ai-good-design ~/.claude/skills/good-design
 
 Reinicia la sesión. Se activa sola cuando pides una landing, un portfolio, un panel
 o cualquier interfaz que una persona vaya a mirar, y también cuando dices que algo
