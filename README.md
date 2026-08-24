@@ -28,6 +28,13 @@ Es un solo `SKILL.md`. No necesita scripts, binarios ni permisos.
 
     git clone https://github.com/iaguito22/ai-good-design ~/.claude/skills/good-design
 
+**Windows** (PowerShell) — misma carpeta, otra ruta:
+
+    git clone https://github.com/iaguito22/ai-good-design $env:USERPROFILE\.gemini\config\skills\good-design
+    git clone https://github.com/iaguito22/ai-good-design $env:USERPROFILE\.claude\skills\good-design
+
+Es un solo `SKILL.md`: no necesita Python ni nada instalado, en ningún sistema.
+
 Reinicia la sesión. Se activa sola cuando pides una landing, un portfolio, un panel
 o cualquier interfaz que una persona vaya a mirar, y también cuando dices que algo
 "parece hecho con IA", "parece vibecoded" o "es genérico". Para forzarla:
